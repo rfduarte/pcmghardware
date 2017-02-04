@@ -1,0 +1,107 @@
+
+.asus_image {
+    background-image: url("/images/mb/mb_asus.png");
+    width: 70px;
+    height: 25px;
+}
+
+.asrock_image {
+    background-image: url("/images/mb/mb_asrock.png");
+    width: 70px;
+    height: 25px;
+}
+
+.gigabyte_image {
+    background-image: url("/images/mb/mb_gigabyte.png");
+    width: 70px;
+    height: 25px;
+}
+
+.dell_image {
+    background-image: url("/images/mb/mb_dell.png");
+    width: 30px;
+    height: 30px;
+}
+
+.foxconn_image {
+    background-image: url("/images/mb/mb_foxconn.png");
+    width: 70px;
+    height: 25px;
+}
+
+.ecs_image {
+    background-image: url("/images/mb/mb_ecs.png");
+    width: 70px;
+    height: 25px;
+}
+
+.hp_image {
+    background-image: url("/images/mb/mb_hp.png");
+    width: 25px;
+    height: 25px;
+}
+
+.acer_image {
+    background-image: url("/images/mb/mb_acer.png");
+    width: 70px;
+    height: 25px;
+}
+.lenovo_image {
+    background-image: url("/images/mb/mb_lenovo.png");
+    width: 70px;
+    height: 25px;
+}
+
+.pcchips_image {
+    background-image: url("/images/mb/mb_pcchips.png");
+    width: 77px;
+    height: 25px;
+}
+
+.winfast_image {
+    background-image: url("/images/mb/mb_winfast.png");
+    width: 70px;
+    height: 25px;
+}
+
+.itautec_image {
+    background-image: url("/images/mb/mb_itautec.png");
+    width: 70px;
+    height: 25px;
+}
+
+.nda_image {
+    background-image: url("/images/mb/mb_clonezilla.png");
+    width: 25px;
+    height: 35px;
+}
+
+.fic_image {
+    background-image: url("/images/mb/mb_fic.png");
+    width: 70px;
+    height: 25px;
+}
+
+.aopen_image {
+    background-image: url("/images/mb/mb_aopen.png");
+    width: 70px;
+    height: 25px;
+}
+
+.intel_image {
+    background-image: url("/images/mb/mb_intel.png");
+    width: 38px;
+    height: 25px;
+}
+
+.icon_clonezilla-64 {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("/images/Clonezilla-14.png");
+  background-repeat: no-repeat;
+}

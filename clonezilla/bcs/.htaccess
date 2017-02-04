@@ -1,0 +1,6 @@
+#DirectoryIndex Images.php
+#AuthType Basic
+#AuthName "Area restrita aos Tecnicos do Laboratorio de Hardware"
+#AuthUserFile /etc/.htpasswd
+#Require valid-user
+

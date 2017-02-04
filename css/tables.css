@@ -1,0 +1,25 @@
+Tables
+/////////////////////////////////////////////////////////////////*/
+table{width:1024px; margin:0 0 10px 0;}
+
+table thead tr{height:20px; background-color:#efede3; color:#333333; font-size:11px; font-weight:bold;}
+
+table thead tr th{padding:5px 0 5px 10px; text-align:left;}
+table thead tr th a{text-decoration:underline; color:#333333;}
+table thead tr th a:hover{text-decoration:underline;}
+table thead tr th .btnOrd{margin:0 0 0 5px;}
+
+table tbody tr{height:20px;color:#333333; font-size:11px; font-weight:bold;}
+table tbody tr{height:20px; font-size:11px; color:#333333;}
+table tbody tr:hover{height:20px; font-size:11px; color:#333333; background-color:#E0E0E0;} /*Adaptado para listagem zebrada Clonezilla*/
+table tbody tr.zebra{background-color:#efede3;text-transform:capitalize;}
+table tbody tr.zebra:hover{background-color:#E0E0E0; color:#333333;} /*Lista zebrada com hover para listagem Clonezilla*/
+
+table tbody tr.hiddenTableContent{display:none; background-color:#f5f3f0;}
+table tbody tr td{padding:5px 0 5px 10px; border-bottom:1px solid #EFEADE; text-align:left;}
+table tbody tr td.img{width:1px; text-align:center; padding:3px; cursor:pointer;}
+table tbody tr td.img img{}
+
+table tfoot tr{height:20px; font-size:11px; color:#333333;}
+table tfoot tr td{padding:5px 0 5px 10px; border-bottom:1px solid #DFDDD3; text-align:left;}
+table tfoot tr td.img{width:auto; text-align:center; padding:3px; border-bottom:1px solid #DFDDD3;}
